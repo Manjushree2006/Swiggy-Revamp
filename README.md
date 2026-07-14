@@ -1,8 +1,8 @@
-# 🍔 Swiggy Revamp
+# Swiggy Revamp
 
 A modern and responsive redesign of the Swiggy food delivery platform built as part of a Web Framework academic project. This project focuses on improving the user interface and user experience while maintaining a clean, responsive, and visually appealing design.
 
-## 📌 Project Overview
+ **Project Overview**
 
 Swiggy Revamp is a front-end web application that recreates the look and feel of the Swiggy homepage with an enhanced UI. The project demonstrates responsive web design principles and modern frontend development techniques.
 
@@ -18,7 +18,7 @@ Swiggy Revamp is a front-end web application that recreates the look and feel of
 - Mobile-friendly layout
 - Interactive buttons and hover effects
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
